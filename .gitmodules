@@ -10,3 +10,6 @@
 [submodule "catalog-service"]
 	path = catalog-service
 	url = https://github.com/ALTbruno/catalog-service
+[submodule "configcloud"]
+	path = configcloud
+	url = https://github.com/ALTbruno/configcloud
