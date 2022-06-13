@@ -7,3 +7,6 @@
 [submodule "movie-service"]
 	path = movie-service
 	url = https://github.com/ALTbruno/movie-service
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/ALTbruno/catalog-service
