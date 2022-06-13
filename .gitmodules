@@ -13,3 +13,6 @@
 [submodule "configcloud"]
 	path = configcloud
 	url = https://github.com/ALTbruno/configcloud
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/ALTbruno/api-gateway
