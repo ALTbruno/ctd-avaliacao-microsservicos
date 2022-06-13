@@ -1,0 +1,3 @@
+[submodule "ctd-eureka-server"]
+	path = ctd-eureka-server
+	url = https://github.com/ALTbruno/ctd-eureka-server
