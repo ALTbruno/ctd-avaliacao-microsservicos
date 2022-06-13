@@ -4,3 +4,6 @@
 [submodule "ctd-config-server"]
 	path = ctd-config-server
 	url = https://github.com/ALTbruno/ctd-config-server
+[submodule "movie-service"]
+	path = movie-service
+	url = https://github.com/ALTbruno/movie-service
